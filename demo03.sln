@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarApplication", "demo03\CarApplication.csproj", "{ECEA5033-5DE5-4F80-BA41-A5990C0A0C40}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teht01_heater", "teht01_heater\teht01_heater.csproj", "{24FBC047-64B7-4F85-93C1-DC1E74F9A1B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teht02_Pesukone", "teht02_Pesukone\teht02_Pesukone.csproj", "{D1854042-DC31-4F0B-B581-FE4C3CB0DEA6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{ECEA5033-5DE5-4F80-BA41-A5990C0A0C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECEA5033-5DE5-4F80-BA41-A5990C0A0C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECEA5033-5DE5-4F80-BA41-A5990C0A0C40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24FBC047-64B7-4F85-93C1-DC1E74F9A1B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24FBC047-64B7-4F85-93C1-DC1E74F9A1B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24FBC047-64B7-4F85-93C1-DC1E74F9A1B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24FBC047-64B7-4F85-93C1-DC1E74F9A1B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1854042-DC31-4F0B-B581-FE4C3CB0DEA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1854042-DC31-4F0B-B581-FE4C3CB0DEA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1854042-DC31-4F0B-B581-FE4C3CB0DEA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1854042-DC31-4F0B-B581-FE4C3CB0DEA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
