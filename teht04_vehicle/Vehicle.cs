@@ -23,9 +23,9 @@ namespace teht04_vehicle
 
         }
 
-        public void ToString()
+        public string ToString(string Name, int Speed, int Tyres)
         {
-            Console.WriteLine(Name + Speed + Tyres);
+            return Name + ", " +Speed ", " + Tyres;
 
         }
     }
