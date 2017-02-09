@@ -45,7 +45,7 @@ namespace teht03_Televisio
                 Console.WriteLine();
                 Console.WriteLine("Choosed channel is: " + value);
                 Console.WriteLine("It's comedy time!");
-            }
+            }pok
             if (Channel >5 && Channel <= 8 )
             {
                 Console.WriteLine();
