@@ -4,14 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace teht05
+namespace teht03_Books
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Radio radio = new Radio();
-            radio.PrintData();
         }
     }
 }

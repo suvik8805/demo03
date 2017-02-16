@@ -67,9 +67,14 @@ namespace teht05
 
 
 
-        public override string ToString()
+        public void PrintData()
         {
-            return "Radio is on: " + RadioOn + " Volume is: " + Volume + " Frequency is: " + Frequency;
+            Console.WriteLine("Radio is on: " + RadioOn);
+            Console.WriteLine("Volume is: " + Volume);
+            Console.WriteLine("Frequency is: " + Frequency);
+
+
         }
-    }
+       }
+
 }
