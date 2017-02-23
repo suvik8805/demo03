@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="teht03_ikkuna.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:teht03_ikkuna"
+    RequestedTheme="Light">
+
+</Application>
